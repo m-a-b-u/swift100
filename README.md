@@ -4,7 +4,7 @@
 
 ##### Days 1-12: Introduction to SWIFT. The first 12 days provide a gentle warm up for your Swift learning. You’ll watch about a selection of one-minute videos every day, and complete short quizzes about each of those videos.
 
-Day 1 – variables, simple data types, and string interpolation []
+Day 1 – variables, simple data types, and string interpolation [X]
 
 Day 2 – arrays, dictionaries, sets, and enums []
 
