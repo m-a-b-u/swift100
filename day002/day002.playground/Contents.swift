@@ -85,11 +85,11 @@ let result3 = "fail"
 
 enum Result {
     case success
-    case failure
+    case failed
 }
 
-let result4 = Result.failure
-let result5 = Result.success
+let result4 = Result.success
+let result5 = Result.failed
 
 // Enum associated values
 
@@ -101,6 +101,7 @@ enum Activity {
 }
 
 let talking = Activity.talking(topic: "Football")
+
 
 // Enum raw values
 
