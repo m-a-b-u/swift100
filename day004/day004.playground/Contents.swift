@@ -175,3 +175,14 @@ while averageScore < 15.0 {
     averageScore += 2.5
     print("The average score is \(averageScore)")
 }
+
+let fibonacci = [1, 1, 2, 3, 5, 8, 13, 21]
+var position = 0
+while position <= 7 {
+    let value = fibonacci[position]
+    position += 1
+    if value < 2 {
+       continue
+    }
+    print("Fibonacci number \(position) is \(value)")
+}
