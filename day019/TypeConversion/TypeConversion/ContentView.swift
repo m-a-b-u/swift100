@@ -58,24 +58,24 @@ struct ContentView: View {
 //            }
 //        }
     
-//    var divider: Double {
-//        switch typeTo {
-//        case 0:
-//            return 1
-//
-//        case 1:
-//            return 10
-//        case 2:
-//            return 100
-//        case 3:
-//            return 1000
-//        case 4:
-//            return 1000000
-//        default:
-//            return 0
-//        }
-//
-//    }
+    var divider: Double {
+        switch typeTo {
+        case 0:
+            return 1
+
+        case 1:
+            return 10
+        case 2:
+            return 100
+        case 3:
+            return 1000
+        case 4:
+            return 1000000
+        default:
+            return 0
+        }
+
+    }
     
     
     
